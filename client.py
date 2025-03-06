@@ -19,7 +19,7 @@ poll_options = None
 poll_data = None
 has_voted = False  
 
-Ip_aadr = '192.168.32.28'
+Ip_aadr = ''
 
 MAX_FRAME_SIZE = 10 * 1024 * 1024  # 10 MB
 
