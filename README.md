@@ -1,6 +1,6 @@
 Streaming and Chat Client
 
-Overview
+Overview:
 This project implements a streaming and chat client using Flask and socket programming. The client allows users to join a live stream, participate in a chat,
 and engage in live polls. The system also collects network performance metrics such as throughput, latency, and packet loss.
 
